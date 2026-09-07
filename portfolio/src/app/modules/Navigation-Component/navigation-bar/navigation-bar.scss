@@ -1,0 +1,12 @@
+.navigation-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #0b1013;
+  &__title_page {
+    color: #fff;
+    font-size: 24px;
+    margin: 0;
+  }
+}
